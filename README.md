@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# OpenAI with NodeJS FRONTEND
+Configuration for chat completion using gpt-3.5
+
+-- You'll need a OpenAI API key
+    Visit https://openai.com/blog/openai-api for more
+
+-- You'll need an .env file with this structure
+    OPENAI_API_KEY="YOUR-OPENAI-KEY"
+
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
